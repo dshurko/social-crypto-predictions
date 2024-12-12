@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "atproto>=0.0.56",
+    "pandas>=2.2.3",
+    "pyarrow>=18.1.0",
 ]
